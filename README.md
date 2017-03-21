@@ -1,2 +1,1 @@
-# awesomeConf
-Mi configuración de awesome es debian
+LEAME.md
